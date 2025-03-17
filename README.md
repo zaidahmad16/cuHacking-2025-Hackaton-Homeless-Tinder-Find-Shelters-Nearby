@@ -1,0 +1,2 @@
+# cuHacking-2025-Hackaton-Homeless-Tinder-Find-Shelters-Nearby
+Homeless Tinder is a React Native application that allows users to swipe left (skip) or right (save) on homeless shelters based on their location, gender preferences, and amenities. The project is powered by Firebase Firestore for shelter data storage and Node.js Express backend for handling API requests. (PLEASE NOTE THE PROJECT DOES NOT WORK)
